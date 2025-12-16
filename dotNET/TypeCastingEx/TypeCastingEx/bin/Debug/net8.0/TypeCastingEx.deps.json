@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TypeCastingEx/1.0.0": {
+        "runtime": {
+          "TypeCastingEx.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TypeCastingEx/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\.NET\TypeCastingEx\TypeCastingEx\bin\Debug\net8.0\TypeCastingEx.exe
+C:\Users\IET\Desktop\.NET\TypeCastingEx\TypeCastingEx\bin\Debug\net8.0\TypeCastingEx.deps.json
+C:\Users\IET\Desktop\.NET\TypeCastingEx\TypeCastingEx\bin\Debug\net8.0\TypeCastingEx.runtimeconfig.json
+C:\Users\IET\Desktop\.NET\TypeCastingEx\TypeCastingEx\bin\Debug\net8.0\TypeCastingEx.dll
+C:\Users\IET\Desktop\.NET\TypeCastingEx\TypeCastingEx\bin\Debug\net8.0\TypeCastingEx.pdb
+C:\Users\IET\Desktop\.NET\TypeCastingEx\TypeCastingEx\obj\Debug\net8.0\TypeCastingEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.NET\TypeCastingEx\TypeCastingEx\obj\Debug\net8.0\TypeCastingEx.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.NET\TypeCastingEx\TypeCastingEx\obj\Debug\net8.0\TypeCastingEx.AssemblyInfo.cs
+C:\Users\IET\Desktop\.NET\TypeCastingEx\TypeCastingEx\obj\Debug\net8.0\TypeCastingEx.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.NET\TypeCastingEx\TypeCastingEx\obj\Debug\net8.0\TypeCastingEx.dll
+C:\Users\IET\Desktop\.NET\TypeCastingEx\TypeCastingEx\obj\Debug\net8.0\refint\TypeCastingEx.dll
+C:\Users\IET\Desktop\.NET\TypeCastingEx\TypeCastingEx\obj\Debug\net8.0\TypeCastingEx.pdb
+C:\Users\IET\Desktop\.NET\TypeCastingEx\TypeCastingEx\obj\Debug\net8.0\TypeCastingEx.genruntimeconfig.cache
+C:\Users\IET\Desktop\.NET\TypeCastingEx\TypeCastingEx\obj\Debug\net8.0\ref\TypeCastingEx.dll
