@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\.NET\ConsoleAppDemo\ConsoleAppDemo\bin\Debug\net8.0\ConsoleAppDemo.exe
+C:\Users\IET\Desktop\.NET\ConsoleAppDemo\ConsoleAppDemo\bin\Debug\net8.0\ConsoleAppDemo.deps.json
+C:\Users\IET\Desktop\.NET\ConsoleAppDemo\ConsoleAppDemo\bin\Debug\net8.0\ConsoleAppDemo.runtimeconfig.json
+C:\Users\IET\Desktop\.NET\ConsoleAppDemo\ConsoleAppDemo\bin\Debug\net8.0\ConsoleAppDemo.dll
+C:\Users\IET\Desktop\.NET\ConsoleAppDemo\ConsoleAppDemo\bin\Debug\net8.0\ConsoleAppDemo.pdb
+C:\Users\IET\Desktop\.NET\ConsoleAppDemo\ConsoleAppDemo\obj\Debug\net8.0\ConsoleAppDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.NET\ConsoleAppDemo\ConsoleAppDemo\obj\Debug\net8.0\ConsoleAppDemo.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.NET\ConsoleAppDemo\ConsoleAppDemo\obj\Debug\net8.0\ConsoleAppDemo.AssemblyInfo.cs
+C:\Users\IET\Desktop\.NET\ConsoleAppDemo\ConsoleAppDemo\obj\Debug\net8.0\ConsoleAppDemo.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.NET\ConsoleAppDemo\ConsoleAppDemo\obj\Debug\net8.0\ConsoleAppDemo.dll
+C:\Users\IET\Desktop\.NET\ConsoleAppDemo\ConsoleAppDemo\obj\Debug\net8.0\refint\ConsoleAppDemo.dll
+C:\Users\IET\Desktop\.NET\ConsoleAppDemo\ConsoleAppDemo\obj\Debug\net8.0\ConsoleAppDemo.pdb
+C:\Users\IET\Desktop\.NET\ConsoleAppDemo\ConsoleAppDemo\obj\Debug\net8.0\ConsoleAppDemo.genruntimeconfig.cache
+C:\Users\IET\Desktop\.NET\ConsoleAppDemo\ConsoleAppDemo\obj\Debug\net8.0\ref\ConsoleAppDemo.dll
