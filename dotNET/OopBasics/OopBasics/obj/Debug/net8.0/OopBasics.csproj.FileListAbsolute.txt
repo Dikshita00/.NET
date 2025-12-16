@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\.NET\OopBasics\OopBasics\bin\Debug\net8.0\OopBasics.exe
+C:\Users\IET\Desktop\.NET\OopBasics\OopBasics\bin\Debug\net8.0\OopBasics.deps.json
+C:\Users\IET\Desktop\.NET\OopBasics\OopBasics\bin\Debug\net8.0\OopBasics.runtimeconfig.json
+C:\Users\IET\Desktop\.NET\OopBasics\OopBasics\bin\Debug\net8.0\OopBasics.dll
+C:\Users\IET\Desktop\.NET\OopBasics\OopBasics\bin\Debug\net8.0\OopBasics.pdb
+C:\Users\IET\Desktop\.NET\OopBasics\OopBasics\obj\Debug\net8.0\OopBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.NET\OopBasics\OopBasics\obj\Debug\net8.0\OopBasics.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.NET\OopBasics\OopBasics\obj\Debug\net8.0\OopBasics.AssemblyInfo.cs
+C:\Users\IET\Desktop\.NET\OopBasics\OopBasics\obj\Debug\net8.0\OopBasics.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.NET\OopBasics\OopBasics\obj\Debug\net8.0\OopBasics.dll
+C:\Users\IET\Desktop\.NET\OopBasics\OopBasics\obj\Debug\net8.0\refint\OopBasics.dll
+C:\Users\IET\Desktop\.NET\OopBasics\OopBasics\obj\Debug\net8.0\OopBasics.pdb
+C:\Users\IET\Desktop\.NET\OopBasics\OopBasics\obj\Debug\net8.0\OopBasics.genruntimeconfig.cache
+C:\Users\IET\Desktop\.NET\OopBasics\OopBasics\obj\Debug\net8.0\ref\OopBasics.dll

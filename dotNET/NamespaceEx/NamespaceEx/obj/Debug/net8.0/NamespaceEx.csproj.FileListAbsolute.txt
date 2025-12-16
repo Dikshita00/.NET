@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\.NET\NamespaceEx\NamespaceEx\bin\Debug\net8.0\NamespaceEx.exe
+C:\Users\IET\Desktop\.NET\NamespaceEx\NamespaceEx\bin\Debug\net8.0\NamespaceEx.deps.json
+C:\Users\IET\Desktop\.NET\NamespaceEx\NamespaceEx\bin\Debug\net8.0\NamespaceEx.runtimeconfig.json
+C:\Users\IET\Desktop\.NET\NamespaceEx\NamespaceEx\bin\Debug\net8.0\NamespaceEx.dll
+C:\Users\IET\Desktop\.NET\NamespaceEx\NamespaceEx\bin\Debug\net8.0\NamespaceEx.pdb
+C:\Users\IET\Desktop\.NET\NamespaceEx\NamespaceEx\obj\Debug\net8.0\NamespaceEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.NET\NamespaceEx\NamespaceEx\obj\Debug\net8.0\NamespaceEx.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.NET\NamespaceEx\NamespaceEx\obj\Debug\net8.0\NamespaceEx.AssemblyInfo.cs
+C:\Users\IET\Desktop\.NET\NamespaceEx\NamespaceEx\obj\Debug\net8.0\NamespaceEx.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.NET\NamespaceEx\NamespaceEx\obj\Debug\net8.0\NamespaceEx.dll
+C:\Users\IET\Desktop\.NET\NamespaceEx\NamespaceEx\obj\Debug\net8.0\refint\NamespaceEx.dll
+C:\Users\IET\Desktop\.NET\NamespaceEx\NamespaceEx\obj\Debug\net8.0\NamespaceEx.pdb
+C:\Users\IET\Desktop\.NET\NamespaceEx\NamespaceEx\obj\Debug\net8.0\NamespaceEx.genruntimeconfig.cache
+C:\Users\IET\Desktop\.NET\NamespaceEx\NamespaceEx\obj\Debug\net8.0\ref\NamespaceEx.dll

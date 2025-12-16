@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\.NET\opp_Inheritance\opp_Inheritance\bin\Debug\net8.0\opp_Inheritance.exe
+C:\Users\IET\Desktop\.NET\opp_Inheritance\opp_Inheritance\bin\Debug\net8.0\opp_Inheritance.deps.json
+C:\Users\IET\Desktop\.NET\opp_Inheritance\opp_Inheritance\bin\Debug\net8.0\opp_Inheritance.runtimeconfig.json
+C:\Users\IET\Desktop\.NET\opp_Inheritance\opp_Inheritance\bin\Debug\net8.0\opp_Inheritance.dll
+C:\Users\IET\Desktop\.NET\opp_Inheritance\opp_Inheritance\bin\Debug\net8.0\opp_Inheritance.pdb
+C:\Users\IET\Desktop\.NET\opp_Inheritance\opp_Inheritance\obj\Debug\net8.0\opp_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.NET\opp_Inheritance\opp_Inheritance\obj\Debug\net8.0\opp_Inheritance.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.NET\opp_Inheritance\opp_Inheritance\obj\Debug\net8.0\opp_Inheritance.AssemblyInfo.cs
+C:\Users\IET\Desktop\.NET\opp_Inheritance\opp_Inheritance\obj\Debug\net8.0\opp_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.NET\opp_Inheritance\opp_Inheritance\obj\Debug\net8.0\opp_Inheritance.dll
+C:\Users\IET\Desktop\.NET\opp_Inheritance\opp_Inheritance\obj\Debug\net8.0\refint\opp_Inheritance.dll
+C:\Users\IET\Desktop\.NET\opp_Inheritance\opp_Inheritance\obj\Debug\net8.0\opp_Inheritance.pdb
+C:\Users\IET\Desktop\.NET\opp_Inheritance\opp_Inheritance\obj\Debug\net8.0\opp_Inheritance.genruntimeconfig.cache
+C:\Users\IET\Desktop\.NET\opp_Inheritance\opp_Inheritance\obj\Debug\net8.0\ref\opp_Inheritance.dll
