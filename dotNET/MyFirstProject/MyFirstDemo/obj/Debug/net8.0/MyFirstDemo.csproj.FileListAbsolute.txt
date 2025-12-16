@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\.NET\MyFirstProject\MyFirstDemo\bin\Debug\net8.0\MyFirstDemo.exe
+C:\Users\IET\Desktop\.NET\MyFirstProject\MyFirstDemo\bin\Debug\net8.0\MyFirstDemo.deps.json
+C:\Users\IET\Desktop\.NET\MyFirstProject\MyFirstDemo\bin\Debug\net8.0\MyFirstDemo.runtimeconfig.json
+C:\Users\IET\Desktop\.NET\MyFirstProject\MyFirstDemo\bin\Debug\net8.0\MyFirstDemo.dll
+C:\Users\IET\Desktop\.NET\MyFirstProject\MyFirstDemo\bin\Debug\net8.0\MyFirstDemo.pdb
+C:\Users\IET\Desktop\.NET\MyFirstProject\MyFirstDemo\obj\Debug\net8.0\MyFirstDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.NET\MyFirstProject\MyFirstDemo\obj\Debug\net8.0\MyFirstDemo.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.NET\MyFirstProject\MyFirstDemo\obj\Debug\net8.0\MyFirstDemo.AssemblyInfo.cs
+C:\Users\IET\Desktop\.NET\MyFirstProject\MyFirstDemo\obj\Debug\net8.0\MyFirstDemo.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.NET\MyFirstProject\MyFirstDemo\obj\Debug\net8.0\MyFirstDemo.dll
+C:\Users\IET\Desktop\.NET\MyFirstProject\MyFirstDemo\obj\Debug\net8.0\refint\MyFirstDemo.dll
+C:\Users\IET\Desktop\.NET\MyFirstProject\MyFirstDemo\obj\Debug\net8.0\MyFirstDemo.pdb
+C:\Users\IET\Desktop\.NET\MyFirstProject\MyFirstDemo\obj\Debug\net8.0\MyFirstDemo.genruntimeconfig.cache
+C:\Users\IET\Desktop\.NET\MyFirstProject\MyFirstDemo\obj\Debug\net8.0\ref\MyFirstDemo.dll
