@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\.NET\SampleProgram\SampleProgram\bin\Debug\net8.0\SampleProgram.exe
+C:\Users\IET\Desktop\.NET\SampleProgram\SampleProgram\bin\Debug\net8.0\SampleProgram.deps.json
+C:\Users\IET\Desktop\.NET\SampleProgram\SampleProgram\bin\Debug\net8.0\SampleProgram.runtimeconfig.json
+C:\Users\IET\Desktop\.NET\SampleProgram\SampleProgram\bin\Debug\net8.0\SampleProgram.dll
+C:\Users\IET\Desktop\.NET\SampleProgram\SampleProgram\bin\Debug\net8.0\SampleProgram.pdb
+C:\Users\IET\Desktop\.NET\SampleProgram\SampleProgram\obj\Debug\net8.0\SampleProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.NET\SampleProgram\SampleProgram\obj\Debug\net8.0\SampleProgram.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.NET\SampleProgram\SampleProgram\obj\Debug\net8.0\SampleProgram.AssemblyInfo.cs
+C:\Users\IET\Desktop\.NET\SampleProgram\SampleProgram\obj\Debug\net8.0\SampleProgram.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.NET\SampleProgram\SampleProgram\obj\Debug\net8.0\SampleProgram.dll
+C:\Users\IET\Desktop\.NET\SampleProgram\SampleProgram\obj\Debug\net8.0\refint\SampleProgram.dll
+C:\Users\IET\Desktop\.NET\SampleProgram\SampleProgram\obj\Debug\net8.0\SampleProgram.pdb
+C:\Users\IET\Desktop\.NET\SampleProgram\SampleProgram\obj\Debug\net8.0\SampleProgram.genruntimeconfig.cache
+C:\Users\IET\Desktop\.NET\SampleProgram\SampleProgram\obj\Debug\net8.0\ref\SampleProgram.dll
