@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\.NET\InterfacePolymorphismDemo\InterfacePolymorphismDemo\bin\Debug\net8.0\InterfacePolymorphismDemo.exe
+C:\Users\IET\Desktop\.NET\InterfacePolymorphismDemo\InterfacePolymorphismDemo\bin\Debug\net8.0\InterfacePolymorphismDemo.deps.json
+C:\Users\IET\Desktop\.NET\InterfacePolymorphismDemo\InterfacePolymorphismDemo\bin\Debug\net8.0\InterfacePolymorphismDemo.runtimeconfig.json
+C:\Users\IET\Desktop\.NET\InterfacePolymorphismDemo\InterfacePolymorphismDemo\bin\Debug\net8.0\InterfacePolymorphismDemo.dll
+C:\Users\IET\Desktop\.NET\InterfacePolymorphismDemo\InterfacePolymorphismDemo\bin\Debug\net8.0\InterfacePolymorphismDemo.pdb
+C:\Users\IET\Desktop\.NET\InterfacePolymorphismDemo\InterfacePolymorphismDemo\obj\Debug\net8.0\InterfacePolymorphismDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.NET\InterfacePolymorphismDemo\InterfacePolymorphismDemo\obj\Debug\net8.0\InterfacePolymorphismDemo.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.NET\InterfacePolymorphismDemo\InterfacePolymorphismDemo\obj\Debug\net8.0\InterfacePolymorphismDemo.AssemblyInfo.cs
+C:\Users\IET\Desktop\.NET\InterfacePolymorphismDemo\InterfacePolymorphismDemo\obj\Debug\net8.0\InterfacePolymorphismDemo.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.NET\InterfacePolymorphismDemo\InterfacePolymorphismDemo\obj\Debug\net8.0\InterfacePolymorphismDemo.dll
+C:\Users\IET\Desktop\.NET\InterfacePolymorphismDemo\InterfacePolymorphismDemo\obj\Debug\net8.0\refint\InterfacePolymorphismDemo.dll
+C:\Users\IET\Desktop\.NET\InterfacePolymorphismDemo\InterfacePolymorphismDemo\obj\Debug\net8.0\InterfacePolymorphismDemo.pdb
+C:\Users\IET\Desktop\.NET\InterfacePolymorphismDemo\InterfacePolymorphismDemo\obj\Debug\net8.0\InterfacePolymorphismDemo.genruntimeconfig.cache
+C:\Users\IET\Desktop\.NET\InterfacePolymorphismDemo\InterfacePolymorphismDemo\obj\Debug\net8.0\ref\InterfacePolymorphismDemo.dll

@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\.NET\EntityInheritance\EntityInheritance\bin\Debug\net8.0\EntityInheritance.exe
+C:\Users\IET\Desktop\.NET\EntityInheritance\EntityInheritance\bin\Debug\net8.0\EntityInheritance.deps.json
+C:\Users\IET\Desktop\.NET\EntityInheritance\EntityInheritance\bin\Debug\net8.0\EntityInheritance.runtimeconfig.json
+C:\Users\IET\Desktop\.NET\EntityInheritance\EntityInheritance\bin\Debug\net8.0\EntityInheritance.dll
+C:\Users\IET\Desktop\.NET\EntityInheritance\EntityInheritance\bin\Debug\net8.0\EntityInheritance.pdb
+C:\Users\IET\Desktop\.NET\EntityInheritance\EntityInheritance\obj\Debug\net8.0\EntityInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.NET\EntityInheritance\EntityInheritance\obj\Debug\net8.0\EntityInheritance.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.NET\EntityInheritance\EntityInheritance\obj\Debug\net8.0\EntityInheritance.AssemblyInfo.cs
+C:\Users\IET\Desktop\.NET\EntityInheritance\EntityInheritance\obj\Debug\net8.0\EntityInheritance.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.NET\EntityInheritance\EntityInheritance\obj\Debug\net8.0\EntityInheritance.dll
+C:\Users\IET\Desktop\.NET\EntityInheritance\EntityInheritance\obj\Debug\net8.0\refint\EntityInheritance.dll
+C:\Users\IET\Desktop\.NET\EntityInheritance\EntityInheritance\obj\Debug\net8.0\EntityInheritance.pdb
+C:\Users\IET\Desktop\.NET\EntityInheritance\EntityInheritance\obj\Debug\net8.0\EntityInheritance.genruntimeconfig.cache
+C:\Users\IET\Desktop\.NET\EntityInheritance\EntityInheritance\obj\Debug\net8.0\ref\EntityInheritance.dll
