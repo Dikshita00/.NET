@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\.NET\InterfaceDemoProject\InterfaceDemoProject\bin\Debug\net8.0\InterfaceDemoProject.exe
+C:\Users\IET\Desktop\.NET\InterfaceDemoProject\InterfaceDemoProject\bin\Debug\net8.0\InterfaceDemoProject.deps.json
+C:\Users\IET\Desktop\.NET\InterfaceDemoProject\InterfaceDemoProject\bin\Debug\net8.0\InterfaceDemoProject.runtimeconfig.json
+C:\Users\IET\Desktop\.NET\InterfaceDemoProject\InterfaceDemoProject\bin\Debug\net8.0\InterfaceDemoProject.dll
+C:\Users\IET\Desktop\.NET\InterfaceDemoProject\InterfaceDemoProject\bin\Debug\net8.0\InterfaceDemoProject.pdb
+C:\Users\IET\Desktop\.NET\InterfaceDemoProject\InterfaceDemoProject\obj\Debug\net8.0\InterfaceDemoProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.NET\InterfaceDemoProject\InterfaceDemoProject\obj\Debug\net8.0\InterfaceDemoProject.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.NET\InterfaceDemoProject\InterfaceDemoProject\obj\Debug\net8.0\InterfaceDemoProject.AssemblyInfo.cs
+C:\Users\IET\Desktop\.NET\InterfaceDemoProject\InterfaceDemoProject\obj\Debug\net8.0\InterfaceDemoProject.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.NET\InterfaceDemoProject\InterfaceDemoProject\obj\Debug\net8.0\InterfaceDemoProject.dll
+C:\Users\IET\Desktop\.NET\InterfaceDemoProject\InterfaceDemoProject\obj\Debug\net8.0\refint\InterfaceDemoProject.dll
+C:\Users\IET\Desktop\.NET\InterfaceDemoProject\InterfaceDemoProject\obj\Debug\net8.0\InterfaceDemoProject.pdb
+C:\Users\IET\Desktop\.NET\InterfaceDemoProject\InterfaceDemoProject\obj\Debug\net8.0\InterfaceDemoProject.genruntimeconfig.cache
+C:\Users\IET\Desktop\.NET\InterfaceDemoProject\InterfaceDemoProject\obj\Debug\net8.0\ref\InterfaceDemoProject.dll
