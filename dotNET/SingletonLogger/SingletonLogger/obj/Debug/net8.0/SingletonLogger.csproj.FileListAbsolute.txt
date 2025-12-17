@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\.NET\SingletonLogger\SingletonLogger\bin\Debug\net8.0\SingletonLogger.exe
+C:\Users\IET\Desktop\.NET\SingletonLogger\SingletonLogger\bin\Debug\net8.0\SingletonLogger.deps.json
+C:\Users\IET\Desktop\.NET\SingletonLogger\SingletonLogger\bin\Debug\net8.0\SingletonLogger.runtimeconfig.json
+C:\Users\IET\Desktop\.NET\SingletonLogger\SingletonLogger\bin\Debug\net8.0\SingletonLogger.dll
+C:\Users\IET\Desktop\.NET\SingletonLogger\SingletonLogger\bin\Debug\net8.0\SingletonLogger.pdb
+C:\Users\IET\Desktop\.NET\SingletonLogger\SingletonLogger\obj\Debug\net8.0\SingletonLogger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.NET\SingletonLogger\SingletonLogger\obj\Debug\net8.0\SingletonLogger.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.NET\SingletonLogger\SingletonLogger\obj\Debug\net8.0\SingletonLogger.AssemblyInfo.cs
+C:\Users\IET\Desktop\.NET\SingletonLogger\SingletonLogger\obj\Debug\net8.0\SingletonLogger.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.NET\SingletonLogger\SingletonLogger\obj\Debug\net8.0\SingletonLogger.dll
+C:\Users\IET\Desktop\.NET\SingletonLogger\SingletonLogger\obj\Debug\net8.0\refint\SingletonLogger.dll
+C:\Users\IET\Desktop\.NET\SingletonLogger\SingletonLogger\obj\Debug\net8.0\SingletonLogger.pdb
+C:\Users\IET\Desktop\.NET\SingletonLogger\SingletonLogger\obj\Debug\net8.0\SingletonLogger.genruntimeconfig.cache
+C:\Users\IET\Desktop\.NET\SingletonLogger\SingletonLogger\obj\Debug\net8.0\ref\SingletonLogger.dll
