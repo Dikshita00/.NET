@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\.NET\InheritanceEx\InheritanceEx\bin\Debug\net8.0\InheritanceEx.exe
+C:\Users\IET\Desktop\.NET\InheritanceEx\InheritanceEx\bin\Debug\net8.0\InheritanceEx.deps.json
+C:\Users\IET\Desktop\.NET\InheritanceEx\InheritanceEx\bin\Debug\net8.0\InheritanceEx.runtimeconfig.json
+C:\Users\IET\Desktop\.NET\InheritanceEx\InheritanceEx\bin\Debug\net8.0\InheritanceEx.dll
+C:\Users\IET\Desktop\.NET\InheritanceEx\InheritanceEx\bin\Debug\net8.0\InheritanceEx.pdb
+C:\Users\IET\Desktop\.NET\InheritanceEx\InheritanceEx\obj\Debug\net8.0\InheritanceEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.NET\InheritanceEx\InheritanceEx\obj\Debug\net8.0\InheritanceEx.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.NET\InheritanceEx\InheritanceEx\obj\Debug\net8.0\InheritanceEx.AssemblyInfo.cs
+C:\Users\IET\Desktop\.NET\InheritanceEx\InheritanceEx\obj\Debug\net8.0\InheritanceEx.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.NET\InheritanceEx\InheritanceEx\obj\Debug\net8.0\InheritanceEx.dll
+C:\Users\IET\Desktop\.NET\InheritanceEx\InheritanceEx\obj\Debug\net8.0\refint\InheritanceEx.dll
+C:\Users\IET\Desktop\.NET\InheritanceEx\InheritanceEx\obj\Debug\net8.0\InheritanceEx.pdb
+C:\Users\IET\Desktop\.NET\InheritanceEx\InheritanceEx\obj\Debug\net8.0\InheritanceEx.genruntimeconfig.cache
+C:\Users\IET\Desktop\.NET\InheritanceEx\InheritanceEx\obj\Debug\net8.0\ref\InheritanceEx.dll
