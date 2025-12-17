@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\.NET\ReportFactoryPattern\ReportFactoryPattern\bin\Debug\net8.0\ReportFactoryPattern.exe
+C:\Users\IET\Desktop\.NET\ReportFactoryPattern\ReportFactoryPattern\bin\Debug\net8.0\ReportFactoryPattern.deps.json
+C:\Users\IET\Desktop\.NET\ReportFactoryPattern\ReportFactoryPattern\bin\Debug\net8.0\ReportFactoryPattern.runtimeconfig.json
+C:\Users\IET\Desktop\.NET\ReportFactoryPattern\ReportFactoryPattern\bin\Debug\net8.0\ReportFactoryPattern.dll
+C:\Users\IET\Desktop\.NET\ReportFactoryPattern\ReportFactoryPattern\bin\Debug\net8.0\ReportFactoryPattern.pdb
+C:\Users\IET\Desktop\.NET\ReportFactoryPattern\ReportFactoryPattern\obj\Debug\net8.0\ReportFactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.NET\ReportFactoryPattern\ReportFactoryPattern\obj\Debug\net8.0\ReportFactoryPattern.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.NET\ReportFactoryPattern\ReportFactoryPattern\obj\Debug\net8.0\ReportFactoryPattern.AssemblyInfo.cs
+C:\Users\IET\Desktop\.NET\ReportFactoryPattern\ReportFactoryPattern\obj\Debug\net8.0\ReportFactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.NET\ReportFactoryPattern\ReportFactoryPattern\obj\Debug\net8.0\ReportFactoryPattern.dll
+C:\Users\IET\Desktop\.NET\ReportFactoryPattern\ReportFactoryPattern\obj\Debug\net8.0\refint\ReportFactoryPattern.dll
+C:\Users\IET\Desktop\.NET\ReportFactoryPattern\ReportFactoryPattern\obj\Debug\net8.0\ReportFactoryPattern.pdb
+C:\Users\IET\Desktop\.NET\ReportFactoryPattern\ReportFactoryPattern\obj\Debug\net8.0\ReportFactoryPattern.genruntimeconfig.cache
+C:\Users\IET\Desktop\.NET\ReportFactoryPattern\ReportFactoryPattern\obj\Debug\net8.0\ref\ReportFactoryPattern.dll
