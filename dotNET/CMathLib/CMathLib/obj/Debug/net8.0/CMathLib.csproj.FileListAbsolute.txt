@@ -1,0 +1,11 @@
+C:\Users\IET\Desktop\.NET\CMathLib\CMathLib\obj\Debug\net8.0\CMathLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.NET\CMathLib\CMathLib\obj\Debug\net8.0\CMathLib.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.NET\CMathLib\CMathLib\obj\Debug\net8.0\CMathLib.AssemblyInfo.cs
+C:\Users\IET\Desktop\.NET\CMathLib\CMathLib\obj\Debug\net8.0\CMathLib.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.NET\CMathLib\CMathLib\bin\Debug\net8.0\CMathLib.deps.json
+C:\Users\IET\Desktop\.NET\CMathLib\CMathLib\bin\Debug\net8.0\CMathLib.dll
+C:\Users\IET\Desktop\.NET\CMathLib\CMathLib\bin\Debug\net8.0\CMathLib.pdb
+C:\Users\IET\Desktop\.NET\CMathLib\CMathLib\obj\Debug\net8.0\CMathLib.dll
+C:\Users\IET\Desktop\.NET\CMathLib\CMathLib\obj\Debug\net8.0\refint\CMathLib.dll
+C:\Users\IET\Desktop\.NET\CMathLib\CMathLib\obj\Debug\net8.0\CMathLib.pdb
+C:\Users\IET\Desktop\.NET\CMathLib\CMathLib\obj\Debug\net8.0\ref\CMathLib.dll
