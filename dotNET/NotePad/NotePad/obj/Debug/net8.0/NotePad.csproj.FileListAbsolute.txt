@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\.NET\NotePad\NotePad\bin\Debug\net8.0\NotePad.exe
+C:\Users\IET\Desktop\.NET\NotePad\NotePad\bin\Debug\net8.0\NotePad.deps.json
+C:\Users\IET\Desktop\.NET\NotePad\NotePad\bin\Debug\net8.0\NotePad.runtimeconfig.json
+C:\Users\IET\Desktop\.NET\NotePad\NotePad\bin\Debug\net8.0\NotePad.dll
+C:\Users\IET\Desktop\.NET\NotePad\NotePad\bin\Debug\net8.0\NotePad.pdb
+C:\Users\IET\Desktop\.NET\NotePad\NotePad\obj\Debug\net8.0\NotePad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.NET\NotePad\NotePad\obj\Debug\net8.0\NotePad.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.NET\NotePad\NotePad\obj\Debug\net8.0\NotePad.AssemblyInfo.cs
+C:\Users\IET\Desktop\.NET\NotePad\NotePad\obj\Debug\net8.0\NotePad.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.NET\NotePad\NotePad\obj\Debug\net8.0\NotePad.dll
+C:\Users\IET\Desktop\.NET\NotePad\NotePad\obj\Debug\net8.0\refint\NotePad.dll
+C:\Users\IET\Desktop\.NET\NotePad\NotePad\obj\Debug\net8.0\NotePad.pdb
+C:\Users\IET\Desktop\.NET\NotePad\NotePad\obj\Debug\net8.0\NotePad.genruntimeconfig.cache
+C:\Users\IET\Desktop\.NET\NotePad\NotePad\obj\Debug\net8.0\ref\NotePad.dll
