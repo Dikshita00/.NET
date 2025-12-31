@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\.NET\Threading2\Threading2\bin\Debug\net8.0\Threading2.exe
+C:\Users\IET\Desktop\.NET\Threading2\Threading2\bin\Debug\net8.0\Threading2.deps.json
+C:\Users\IET\Desktop\.NET\Threading2\Threading2\bin\Debug\net8.0\Threading2.runtimeconfig.json
+C:\Users\IET\Desktop\.NET\Threading2\Threading2\bin\Debug\net8.0\Threading2.dll
+C:\Users\IET\Desktop\.NET\Threading2\Threading2\bin\Debug\net8.0\Threading2.pdb
+C:\Users\IET\Desktop\.NET\Threading2\Threading2\obj\Debug\net8.0\Threading2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.NET\Threading2\Threading2\obj\Debug\net8.0\Threading2.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.NET\Threading2\Threading2\obj\Debug\net8.0\Threading2.AssemblyInfo.cs
+C:\Users\IET\Desktop\.NET\Threading2\Threading2\obj\Debug\net8.0\Threading2.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.NET\Threading2\Threading2\obj\Debug\net8.0\Threading2.dll
+C:\Users\IET\Desktop\.NET\Threading2\Threading2\obj\Debug\net8.0\refint\Threading2.dll
+C:\Users\IET\Desktop\.NET\Threading2\Threading2\obj\Debug\net8.0\Threading2.pdb
+C:\Users\IET\Desktop\.NET\Threading2\Threading2\obj\Debug\net8.0\Threading2.genruntimeconfig.cache
+C:\Users\IET\Desktop\.NET\Threading2\Threading2\obj\Debug\net8.0\ref\Threading2.dll
